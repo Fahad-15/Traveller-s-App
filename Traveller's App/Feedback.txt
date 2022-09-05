@@ -1,0 +1,42 @@
+
+======================
+Assignment 1 Feedback
+----------------------
+Partner 1   Name: Haris Amin
+            Roll no: 231494566
+            
+Partner 2   Name: Fahad Siddiqui
+            Roll no: 231471220
+======================
+
+Q. Were the instructions clear?
+A: Yes. 
+
+
+Q. How much effort did you put in this assignment?
+A: Both of us put in a lot of effort in this assignment. However, we couldn't complete it, not because of time shortage, but because a few topics (recycler view and filing) were unclear to us. We tried to look them up on Youtube and also tried to take help on stackoverflow etc, but we couldn't understand these topics as most of the content was in java. Both of us would appreciate if these topics could be explained to us again sometime so that we don't face difficulties in future assignments. 
+
+
+Q. Was this assignment easy, medium or challenging? Why?
+A: It was easy if we knew how to implement recycler view and incorporate filing. Since we didn't know that, the project became medium/challenging for us. 
+
+
+Q. Did you enjoy the assignment?
+A: A little. 
+
+
+Q. Did you learn anything new?
+A: Yes. 
+
+
+Q. What kind of assignments are you looking for in the future?
+A: 1) Take it Easy !! 
+
+
+
+Q. Any feedback / comments you want to share with us to improve the quality of the future assignments?
+A: We would really appreciate if there are more labs in the future before you give us assignments. Since you'll be available during labs to help us out with our queries and confusions, it could really help us out and we wouldn't have to spend countless hours trying to look for solutions to our questions, queries and problems and end up with nothing (or something in Java instead of Kotlin, which would confuse us even more). 
+
+
+
+
